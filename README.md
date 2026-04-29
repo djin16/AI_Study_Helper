@@ -34,5 +34,4 @@ First, install Streamlit:
 ```bash
 pip install streamlit
 
-And then
 streamlit run main.py
