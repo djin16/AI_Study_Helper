@@ -6,6 +6,7 @@ AI Study Helper is a beginner-friendly Python and Streamlit web app that helps s
 
 This project was created to explore how AI and basic natural language processing can support student learning. Many students have long notes from lectures, textbooks, or online resources, but they may not know how to organize them effectively. AI Study Helper helps students turn raw notes into useful study materials.
 
+Web Link: http://192.168.0.249:8501
 ## Features
 
 - Summarizes study notes
