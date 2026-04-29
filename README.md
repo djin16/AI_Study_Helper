@@ -32,13 +32,13 @@ The app uses basic text processing techniques to analyze the user's notes. It re
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/djin16/AI-Study-Helper
+git clone https://github.com/djin16/AI_Study_Helper
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd AI-Study-Helper
+cd AI_Study_Helper
 ```
 
 ### 3. Install required packages
