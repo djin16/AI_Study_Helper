@@ -27,11 +27,36 @@ This project was created to explore how AI and basic natural language processing
 
 The app uses basic text processing techniques to analyze the user's notes. It removes common stopwords, counts important keywords, scores sentences based on keyword frequency, and selects the most important sentences for the summary. It also uses the extracted key terms to create simple quiz questions.
 
-## How to Run the Project
+## How to Run
 
-First, install Streamlit:
+### 1. Clone this repository
 
 ```bash
-pip install streamlit
+git clone https://github.com/djin16/AI-Study-Helper
+```
 
+### 2. Open the project folder
+
+```bash
+cd AI-Study-Helper
+```
+
+### 3. Install required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit app
+
+```bash
 streamlit run main.py
+```
+
+### 5. Open the app
+
+After running the command, Streamlit will show a local URL in the terminal, usually:
+
+```bash
+http://localhost:8501
+```
